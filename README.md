@@ -1,9 +1,9 @@
-## App Rating Predictor
-# Overview
+# App Rating Predictor
+## Overview
 
 This project predicts app ratings on the Apple App Store using attributes like category, price, size, and descriptions. The goal is to help developers optimize their apps for higher ratings by identifying key factors that influence user satisfaction.
 
-# Key Features
+## Key Features
 
 Exploratory Data Analysis (EDA): Visualizes trends in app ratings, prices, and categories.
 
