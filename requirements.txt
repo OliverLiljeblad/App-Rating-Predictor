@@ -1,0 +1,15 @@
+Essential python libraries required for this project:
+
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+matplotlib==3.7.1
+
+# Install Python 3
+brew install python
+
+# Install Jupyter Notebook
+pip3 install notebook
+
+# Launch Jupyter Notebook
+jupyter notebook
